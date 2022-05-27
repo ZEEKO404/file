@@ -1,2 +1,2 @@
-import titu main_apv
-main_apv()
+import titu main
+main()
